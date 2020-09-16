@@ -12,8 +12,10 @@ Welcome to family's documentation!
 
 Should be able to contain mother and father
 
-* `Mother <https://family-test.readthedocs.io/projects/mother/en/latest/>`_
-* `Father <https://family-test.readthedocs.io/projects/father/en/latest/>`_
+* `Father_standalone <https://father.readthedocs.io/en/latest/>`_
+* `Father_subproject <https://family-test.readthedocs.io/projects/father/en/latest/>`_
+* `Mother_standalone <https://family-test.readthedocs.io/projects/mother/en/latest/>`_
+* `Mother_subproject <https://mother.readthedocs.io/en/latest/>`_
 
 
 Indices and tables
