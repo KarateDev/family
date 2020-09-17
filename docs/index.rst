@@ -10,13 +10,14 @@ Welcome to family's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-Should be able to contain mother and father
+Should be able to contain mother, father and uncle
 
 * `Father_standalone <https://father.readthedocs.io/en/latest/>`_
 * `Father_subproject <https://family-test.readthedocs.io/projects/father/en/latest/>`_
 * `Mother_standalone <https://family-test.readthedocs.io/projects/mother/en/latest/>`_
 * `Mother_subproject <https://mother.readthedocs.io/en/latest/>`_
-
+* "Uncle_standalone <https://family-test.readthedocs.io/projects/uncle/en/latest/>`_
+* `Uncle_subproject <https://uncle.readthedocs.io/en/latest/>`_
 
 Indices and tables
 ==================
