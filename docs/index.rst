@@ -12,12 +12,12 @@ Welcome to family's documentation!
 
 Should be able to contain mother, father and uncle
 
-* `Father_standalone <https://father.readthedocs.io/en/latest/>`_
-* `Father_subproject <https://family-test.readthedocs.io/projects/father/en/latest/>`_
-* `Mother_standalone <https://family-test.readthedocs.io/projects/mother/en/latest/>`_
-* `Mother_subproject <https://mother.readthedocs.io/en/latest/>`_
-* "Uncle_standalone <https://family-test.readthedocs.io/projects/uncle/en/latest/>`_
-* `Uncle_subproject <https://uncle.readthedocs.io/en/latest/>`_
+* `Father <https://family-test.readthedocs.io/projects/father/en/latest/>`_
+
+* `Mother <https://family-test.readthedocs.io/projects/mother/en/latest/>`_
+
+* `Uncle <https://family-test.readthedocs.io/projects/uncle/en/latest/>`_
+
 
 Indices and tables
 ==================
